@@ -10,7 +10,7 @@ namespace ByteBank.Funcionarios
     {
         public Diretor(string cpf) : base(5000, cpf)
         {
-            Console.WriteLine("Criando DIRETOR");
+         
         }
 
         public override void AumentarSalario()
